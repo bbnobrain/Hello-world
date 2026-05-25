@@ -1,5 +1,3 @@
-# Hello-world
-something i interested in
 #include<stdio.h>
 #include<stdlib.h>
 int main()
